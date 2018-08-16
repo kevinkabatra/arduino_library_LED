@@ -1,0 +1,24 @@
+
+#######################################
+# Syntax Coloring Map For LED
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+LED							KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GetLEDBlinkSpeed  			KEYWORD2
+GetLEDDescription			KEYWORD2
+GetLEDDigitalPin 			KEYWORD2
+GetLEDState 				KEYWORD2
+init 						KEYWORD2
+SetLEDOff 					KEYWORD2
+SetLEDOn 					KEYWORD2
+ToggleLED 					KEYWORD2
+UpdateCyclesTilLEDBlink 	KEYWORD2
