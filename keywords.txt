@@ -7,18 +7,17 @@
 # Class (KEYWORD1)
 #######################################
 
-LED							KEYWORD1
+LED				KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-GetLEDBlinkSpeed  			KEYWORD2
-GetLEDDescription			KEYWORD2
-GetLEDDigitalPin 			KEYWORD2
-GetLEDState 				KEYWORD2
-init 						KEYWORD2
-SetLEDOff 					KEYWORD2
-SetLEDOn 					KEYWORD2
-ToggleLED 					KEYWORD2
-UpdateCyclesTilLEDBlink 	KEYWORD2
+GetDescription 	KEYWORD2
+SetDescription	KEYWORD2
+GetDigitalPin	KEYWORD2
+SetDigitalPin	KEYWORD2
+GetState		KEYWORD2
+SetOff			KEYWORD2
+SetOn			KEYWORD2
+Toggle			KEYWORD2
